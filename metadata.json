@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro - Program Kasir & POS Modern",
+  "description": "Aplikasi program kasir (Point of Sale) modern dan lengkap untuk toko ritel, cafe, dan resto dengan transaksi cepat, manajemen stok, cetak struk, dan laporan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
